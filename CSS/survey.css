@@ -1,0 +1,14 @@
+.survey-main{
+    height: 60vh;
+    text-align: center;
+}
+
+.survey-container{
+    margin: 130px 0 0 0;
+    display: grid;
+    gap: 40px;
+}
+
+.survey-container p{
+    font-weight: bold;
+}
